@@ -39,6 +39,8 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>				
 			</plugin>			
 		</plugins>
+		<finalName>demo-A1</finalName>
+		
 	</build>
 	
 </project>
